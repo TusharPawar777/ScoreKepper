@@ -1,2 +1,3 @@
 # ScoreKepper
-simple Scorekeeper web application for ping pong it is a local static site
+Simple Scorekeeper Web Application For Ping Pong 
+it is a local static site
