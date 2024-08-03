@@ -1,0 +1,12 @@
+html{
+    background-color: #e0e0e0;
+}
+
+.winner{
+    color: green;
+}
+
+.loser{
+    color: red;
+}
+
